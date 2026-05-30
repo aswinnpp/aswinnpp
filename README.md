@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aswin CP</h1>
+<h1 align="center">Hi , I'm Aswin CP</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
 
 <p align="center">
@@ -13,12 +13,12 @@ Building scalable web applications with clean architecture and modern technologi
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer specializing in the **MERN Stack**
-- ⚙️ Experienced in building **scalable full-stack web applications**
-- 🔐 Strong understanding of **JWT Authentication & Authorization**
-- 🌐 Interested in **REST APIs, Backend Architecture & Clean Code**
-- 📡 Worked with **WebRTC & WebSockets for real-time systems**
-- 🛠️ Passionate about solving problems and building modern applications
+-  Full Stack Developer specializing in the **MERN Stack**
+-  Experienced in building **scalable full-stack web applications**
+-  Strong understanding of **JWT Authentication & Authorization**
+-  Interested in **REST APIs, Backend Architecture & Clean Code**
+-  Worked with **WebRTC & WebSockets for real-time systems**
+-  Passionate about solving problems and building modern applications
 
 ---
 
