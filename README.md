@@ -83,20 +83,21 @@ A full-stack e-commerce platform with **authentication, payments, product manage
 ✔ Product & order management
 
 ---
-
 ##  GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aswinnpp&theme=github_dark"
-    width="49%"
-  />
+<div align="center">
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aswinnpp&theme=github_dark"
-    width="49%"
-  />
-</p>
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=aswinnpp&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinnpp&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
 
 ## GitHub Streak
 
