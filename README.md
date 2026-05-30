@@ -11,7 +11,7 @@ Building scalable web applications with clean architecture and modern technologi
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 -  Full Stack Developer specializing in the **MERN Stack**
 -  Experienced in building **scalable full-stack web applications**
@@ -22,7 +22,7 @@ Building scalable web applications with clean architecture and modern technologi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 <p>
@@ -53,9 +53,9 @@ Building scalable web applications with clean architecture and modern technologi
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🎯 DeView — Developer Interview Platform
+###  DeView — Developer Interview Platform
 A scalable multi-role interview platform supporting **Admin, HR, Interviewer, Company & Candidate workflows**.
 
 **Tech Stack:**  
@@ -70,7 +70,7 @@ A scalable multi-role interview platform supporting **Admin, HR, Interviewer, Co
 
 ---
 
-### 🛒 E-Commerce Web Application
+###  E-Commerce Web Application
 A full-stack e-commerce platform with **authentication, payments, product management & order handling**.
 
 **Tech Stack:**  
@@ -84,7 +84,7 @@ A full-stack e-commerce platform with **authentication, payments, product manage
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswinnpp&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -94,7 +94,7 @@ A full-stack e-commerce platform with **authentication, payments, product manage
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aswinnpp&theme=tokyonight&hide_border=true" />
@@ -102,7 +102,7 @@ A full-stack e-commerce platform with **authentication, payments, product manage
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Microservices Architecture  
 - Advanced React Patterns  
@@ -111,7 +111,7 @@ A full-stack e-commerce platform with **authentication, payments, product manage
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://github.com/aswinnpp" target="blank">
@@ -130,5 +130,5 @@ A full-stack e-commerce platform with **authentication, payments, product manage
 ---
 
 <p align="center">
-⭐️ From <b>Aswin CP</b>
+ From <b>Aswin CP</b>
 </p>
